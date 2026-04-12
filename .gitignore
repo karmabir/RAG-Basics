@@ -48,6 +48,33 @@ data/
 models/
 *.csv
 
+# Cloned repositories (keep as separate projects)
+Adversarial-Attacks-on-HFT/
+Agri-Cultivate/
+Bird-Song-Classification/
+Breast-Cancer-Prediction--Coursera/
+Chronic-Kidney-disease-chatbot/
+Complete-OpenCV/
+Crop-Diseases-Detection/
+Data-Extracter-Hugging-Face-MC/
+Data-Extracter-Paperswithcode/
+Face-eye-detection-from-web-cam/
+FlightPricePredictor/
+House-Price-Prediction/
+karmabir/
+MedScrape/
+opencv/
+Phishing-Detecion/
+Restaurant-Management/
+Road-Lane-Detection/
+Shadow-Removal-Using-Non-Shadow-Mapping/
+Snake-game/
+Spam-Classifier/
+Taxi-Near-You/
+
+# Scripts
+clone_repos.sh
+
 # ChromaDB Vector Store
 **/vector_store/
 
