@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(git clone:*)",
+      "Bash(python3:*)",
+      "Bash(pip install:*)",
+      "Bash(python agents/real_analytics_agent.py)",
+      "Read(//private/tmp/**)",
+      "Bash(pandoc \"/Users/karmabirchakraborty/Documents/Resume/Job/Karmabir Chakraborty - AI Engineer.docx\" -o /tmp/resume_text.md)"
+    ]
+  }
+}
