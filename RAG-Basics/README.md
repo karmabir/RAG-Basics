@@ -1,4 +1,4 @@
-# RAG System - Document Retrieval & Analysis
+# RAG FOR RESEARCH
 
 A Retrieval-Augmented Generation (RAG) system built with LangChain, SentenceTransformers, ChromaDB, and Groq LLM for semantic document search and question answering.
 
